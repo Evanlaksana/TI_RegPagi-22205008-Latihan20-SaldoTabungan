@@ -2,7 +2,7 @@
 Nama : Evan Eka Laksana
  * Kelas : PBO1
  * NIM : 222050008
- * Deskripsi Program : Program ini berisi program untuk menampilkan Program Target Saldo Tabungan
+ * Deskripsi Program : Program ini berisi program untuk menampilkan Target Saldo Tabungan
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
